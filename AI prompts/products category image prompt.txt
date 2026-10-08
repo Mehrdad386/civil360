@@ -1,0 +1,445 @@
+========================================
+CIVIL360 — PRODUCT CATEGORY IMAGE
+MASTER PROMPT
+========================================
+
+CATEGORY NAME:
+[ENTER PRODUCT CATEGORY NAME HERE]
+
+
+Create a premium, modern, minimalist product category image for the official e-commerce website of Civil360, a professional civil engineering and construction platform.
+
+The generated image must represent the exact product category written above through a carefully selected arrangement of realistic products, materials, tools, or equipment associated with that category.
+
+The image is part of a professional construction e-commerce website and must match a consistent visual identity across all product category images.
+
+----------------------------------------
+1. BRAND IDENTITY
+----------------------------------------
+
+Brand:
+Civil360
+
+Visual direction:
+Modern Civil Engineering
+Premium Construction
+Professional
+Minimal
+Technical
+Clean
+Trustworthy
+Industrial
+Elegant
+
+Brand colors:
+
+Deep Teal:
+#164A63
+
+Construction Blue:
+#327A9D
+
+Light Background:
+#F5F8FA
+
+Accent Orange:
+#F0A83A
+
+Use these colors as the visual foundation.
+
+Do not introduce strong unrelated colors.
+
+Orange must be used only as a subtle accent through small product details, reflections, safety elements, or tiny highlights.
+
+----------------------------------------
+2. PURPOSE
+----------------------------------------
+
+This image will be used as a product category thumbnail inside a WooCommerce / WordPress website.
+
+Possible usage:
+
+- WooCommerce product category cards
+- Shop category archive
+- Homepage category cards
+- Product category sections
+- Desktop category cards
+- Mobile category cards
+
+The image must remain attractive and recognizable even when displayed at a small size.
+
+----------------------------------------
+3. MAIN SUBJECT
+----------------------------------------
+
+The products associated with the entered category must be the clear visual focus.
+
+Automatically determine the most recognizable and relevant products for the category.
+
+Use approximately 2 to 5 representative objects.
+
+Do not overcrowd the composition.
+
+Every object must look realistic, technically believable, and professionally presented.
+
+Products should have:
+
+- realistic proportions
+- accurate geometry
+- realistic materials
+- professional industrial appearance
+- high-quality textures
+- believable construction details
+- clean surfaces
+- premium commercial photography quality
+
+----------------------------------------
+4. BACKGROUND
+----------------------------------------
+
+Use a very clean, bright, minimal background.
+
+Preferred main background:
+#F5F8FA
+
+Subtle secondary tones may come from:
+#327A9D
+#164A63
+
+The background may contain extremely subtle engineering-inspired elements such as:
+
+- blueprint lines
+- technical grid
+- architectural geometry
+- structural lines
+- engineering sketches
+- soft concrete texture
+- technical drawing details
+
+These elements must be very subtle.
+
+They must never compete with the products.
+
+Do NOT create a busy construction site as the main background.
+
+This must remain a PRODUCT CATEGORY IMAGE.
+
+----------------------------------------
+5. COMPOSITION
+----------------------------------------
+
+Create a sophisticated editorial product composition.
+
+The composition should feel carefully art-directed.
+
+Use:
+
+- balanced object placement
+- clean negative space
+- clear focal hierarchy
+- elegant spacing
+- realistic depth
+- subtle layering
+
+Main products should be visually dominant.
+
+Avoid visual clutter.
+
+Every element must serve the category representation.
+
+----------------------------------------
+6. CAMERA
+----------------------------------------
+
+Use a professional commercial product photography perspective.
+
+Preferred camera language:
+
+- slightly elevated camera angle
+- subtle three-quarter perspective
+- realistic proportions
+- balanced framing
+- clean product visibility
+- gentle depth of field
+
+Important products must not be cropped.
+
+Keep enough breathing room around all major objects.
+
+----------------------------------------
+7. LIGHTING
+----------------------------------------
+
+Use bright, refined commercial lighting.
+
+Lighting should feel:
+
+- clean
+- premium
+- natural
+- realistic
+- sophisticated
+
+Use:
+
+- soft directional light
+- realistic contact shadows
+- controlled highlights
+- subtle reflections
+- gentle depth
+- soft ambient illumination
+
+Avoid dramatic darkness.
+
+Avoid cinematic horror-style lighting.
+
+Avoid excessive orange lighting.
+
+----------------------------------------
+8. ENGINEERING CHARACTER
+----------------------------------------
+
+The image should subtly communicate:
+
+Civil Engineering
+Construction
+Industrial Quality
+Reliability
+Technical Expertise
+Professionalism
+
+Possible subtle visual cues:
+
+- blueprint paper
+- steel surfaces
+- concrete
+- architectural drawings
+- construction tools
+- technical measuring instruments
+- structural details
+- industrial surfaces
+
+These elements must remain secondary.
+
+The products must remain the main subject.
+
+----------------------------------------
+9. CATEGORY INTELLIGENCE
+----------------------------------------
+
+Interpret the entered category intelligently.
+
+Automatically choose the most suitable objects for the category.
+
+Examples:
+
+مصالح ساختمانی
+→ cement bags, construction blocks, mortar materials, aggregate-related materials
+
+میلگرد و فولاد
+→ rebar bundles, steel sections, structural steel details
+
+تجهیزات ایمنی
+→ safety helmet, safety glasses, protective gloves, safety vest, protective gear
+
+ابزارآلات
+→ professional drill, measuring tools, hand tools, power tools
+
+لوله و اتصالات
+→ PVC pipes, steel pipes, fittings, connectors, valves
+
+بتن و افزودنی‌ها
+→ concrete samples, concrete texture, additive containers, testing-related materials
+
+عایق و آب‌بندی
+→ waterproofing membrane, insulation rolls, sealing materials
+
+تأسیسات ساختمانی
+→ technical pipes, valves, fittings, installation components
+
+The examples above are only references.
+
+For any other category, intelligently identify the most representative and recognizable products associated with that category.
+
+----------------------------------------
+10. VISUAL CONSISTENCY
+----------------------------------------
+
+CRITICAL:
+
+Every generated product category image must look like part of the same professional visual collection.
+
+Maintain the same:
+
+- camera style
+- lighting style
+- background style
+- object scale
+- object spacing
+- shadow behavior
+- visual density
+- color language
+- photographic quality
+- engineering aesthetic
+
+Only the category and representative products should change.
+
+The final category collection must look unified when displayed together in a WooCommerce shop.
+
+----------------------------------------
+11. MINIMALISM
+----------------------------------------
+
+The image must be modern and minimal.
+
+Do not add unnecessary decorative objects.
+
+Do not overload the background.
+
+Do not use excessive perspective distortion.
+
+Do not use excessive reflections.
+
+Do not use excessive glow.
+
+Do not use excessive depth blur.
+
+Do not use exaggerated 3D effects.
+
+The result should feel premium rather than flashy.
+
+----------------------------------------
+12. TEXT AND LOGO
+----------------------------------------
+
+ABSOLUTELY NO TEXT.
+
+Do NOT place:
+
+- category title
+- brand name
+- logo
+- watermark
+- typography
+- labels
+- badges
+- buttons
+- UI elements
+- icons
+- promotional text
+- numbers
+
+inside the image.
+
+The image must remain completely clean.
+
+The category title will be added separately in WordPress / Elementor / WooCommerce.
+
+----------------------------------------
+13. WEBSITE COMPATIBILITY
+----------------------------------------
+
+The image must be suitable for a modern RTL Persian WooCommerce website.
+
+It must work well with:
+
+- square crop
+- rounded category cards
+- desktop cards
+- mobile cards
+- responsive layouts
+
+Keep important products away from extreme edges.
+
+Do not place critical details where they could be cut off by responsive cropping.
+
+----------------------------------------
+14. PHOTO REALISM
+----------------------------------------
+
+Use highly realistic commercial photography.
+
+Materials must look physically believable.
+
+Examples:
+
+- realistic metal
+- realistic concrete
+- realistic plastic
+- realistic rubber
+- realistic paper
+- realistic wood
+- realistic fabric
+- realistic industrial surfaces
+
+Avoid:
+
+- cartoon style
+- illustration
+- anime
+- low-quality 3D
+- toy-like objects
+- unrealistic materials
+- fantasy objects
+- sci-fi objects
+
+----------------------------------------
+15. QUALITY
+----------------------------------------
+
+Final image must be:
+
+Ultra High Quality
+Photorealistic
+Sharp
+Clean
+Professional
+Premium
+Commercial
+Modern
+Minimal
+Highly Detailed
+
+The image should look like it was produced by a professional architectural and construction e-commerce art director.
+
+----------------------------------------
+16. FINAL ART DIRECTION
+----------------------------------------
+
+Final visual direction:
+
+Premium E-commerce Product Photography
++
+Modern Architectural Art Direction
++
+Civil Engineering Identity
++
+Minimal Construction Aesthetic
++
+Professional Industrial Photography
++
+Consistent Civil360 Design System
+
+The image should immediately feel like it belongs to the official Civil360 website.
+
+----------------------------------------
+17. FINAL OUTPUT
+----------------------------------------
+
+Generate ONE polished product category image.
+
+Do not generate multiple unrelated compositions.
+
+Do not add text.
+
+Do not add logos.
+
+Do not add UI.
+
+Focus entirely on the category and its products.
+
+Make the result visually strong enough to be used directly as a premium WooCommerce category thumbnail.
+
+========================================
+END OF MASTER PROMPT
+========================================
